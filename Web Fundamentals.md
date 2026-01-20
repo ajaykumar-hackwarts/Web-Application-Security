@@ -16,7 +16,7 @@ SSL(secure socket layer) : When a browser request for a connection and CA(Certif
 
 TLS(Transport Layer Security) : It is upgrade version of the SSL. It provide strong encryption and better handshake and integrity. 
 
-# 3. TCP/IP : 
+## 3. TCP/IP : 
 
 TCP(Transmission Control Protocol) :  It is a connection oriented protocol for reliable connection over internet. It splits data into packets and sends to the destination. and it checks for error and it uses three-way hanshake(SYN, SYN-ACK, ACK) and establish a connection before sending the data. Example : Loading a website, sending an email. 
 
