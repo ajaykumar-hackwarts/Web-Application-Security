@@ -8,7 +8,7 @@ It happpens when a web application fails to properly restricts what an user can 
 
 Example : Login as a normal user and change to admin and get full access. 
 
-### 2. Security Misconguration :-
+### 2. A02:2025 - Security Misconguration :-
 
 It happens when a web application, server or system set up in a way that leaves it exposed to attackers. 
 
