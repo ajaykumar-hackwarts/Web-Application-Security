@@ -44,4 +44,6 @@ JS(Java Script) : It makes the web page interactive and dynamic. It can change c
 
 ## 7. API :
 
-API(Application Program Interface) : It's a set of rules or interface used to communicate between 2 or more softwares. Example : A website asking for social media login like tryhackme asking for gmail login, Payment gateway like a website asking for pay by razor pay or something. 
+API(Application Program Interface) : It's a set of rules or interface used to communicate between 2 or more softwares. 
+
+Example : A website asking for social media login like tryhackme asking for gmail login, Payment gateway like a website asking for pay by razor pay or something. 
