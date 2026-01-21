@@ -22,8 +22,26 @@ TCP(Transmission Control Protocol) :  It is a connection oriented protocol for r
 
 IP(Internet Protocol) : It is newtwork layer protocol and connectionless which handles addressing and routing of data packets each device on the network has the IP address. 
 
+## 4. DNS : 
 
+DNS stands for Domain Naming System. Domain name is human readable address of the website. It's what we type in the browser instead of an IP address. 
 
+DNS converts domain names into IP address and find the domain name and give back to the server. 
 
+## 5. Cookies and sessions : 
 
+A cookie is small peice of text a website ask your browser to store and send back on the later request so that the site can remember you. 
 
+A session is a temperory data stored on the sever to remember the users activity like login state which will be created by the server itself. Ends when user logs out. 
+
+## 6. Building blocks of websites : 
+
+HTML(HyperText markup language) : It's a standard language which is used to create the structure of web pages. It's not a program language it's a markup language. 
+
+CSS(Cascading Style Sheet) : It is used to style and design the appearance of the web pages. 
+
+JS(Java Script) : It makes the web page interactive and dynamic. It can change content, respond to clicks and fetch data without reloading the page. 
+
+## 7. API :
+
+API(Application Program Interface) : It's a set of rules or interface used to communicate between 2 or more softwares. Example : A website asking for social media login like tryhackme asking for gmail login, Payment gateway like a website asking for pay by razor pay or something. 
