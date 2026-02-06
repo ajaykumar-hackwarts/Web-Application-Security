@@ -12,13 +12,13 @@ Example : Login as a normal user and change to admin and get full access.
 
 It happens when a web application, server or system set up in a way that leaves it exposed to attackers. 
 
-Example : Reveals too much in error messages, insecure http request, outdated software, default credentials unchanges like password : password. 
+Example : Reveals too much in error messages, outdated software, default credentials unchanges like password : password. 
 
 ## 3. A03:2025 - Software Supply Chain Failures :-
 
 It introduced by the third party components, dependencies, software distribution systems. This happens due to blindly trusting third party dependencies and updates. 
 
-Example : SolarWinds Attack(2020) where attacker breached solar windows update system and inserted malicious and code and organization installed the backdoor through the legitimate updates. 
+Example : SolarWinds Attack(2020) where attacker breached solar windows update system and inserted malicious code therefore organization installed the backdoor through the legitimate updates. 
 
 ## 4. A04:2025 - Cryptographic Failures :-
 
@@ -60,4 +60,4 @@ Example : No logging for failed logins so attacker can brute-force attacks for d
 
 It happens when an application is fails to handle errors, exceptions or unusual conditions. Instead of failing safely, the system may expose sensitive information or behave unpredicably. 
 
-Example : Banking App API crash(2022) : API crashes during high traffic du to null pointer exceptions and some tranfer bypassed the daily limit due to poor error handling and let users move more money than allowed. 
+Example : Banking App API crash(2022) : API crashes during high traffic due to null pointer exceptions and the attacker transferring move money from the bank due to poor error handling. 
