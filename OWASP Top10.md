@@ -56,7 +56,7 @@ It happens when an application don't properly log security related-events or fai
 
 Example : No logging for failed logins so attacker can brute-force attacks for days. No Tamper protection so user can modify logs. 
 
-## 10. A10:2025 - Mishandling of Expeptional Conditions :-
+## 10. A10:2025 - Mishandling of Exceptional Conditions :-
 
 It happens when an application is fails to handle errors, exceptions or unusual conditions. Instead of failing safely, the system may expose sensitive information or behave unpredicably. 
 
