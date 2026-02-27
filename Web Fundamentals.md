@@ -1,4 +1,4 @@
-**Definition** : A program which is runs the web server and it can be accessed from the browser is called Web Application. Web is a space where application are get connected and interacted
+**Definition** : A program which runs on the web server and it can be accessed from the browser is called Web Application. Web is a space where application are get connected and interacted
 
 Example : CyberChef, Gmail, Github etc. 
 
