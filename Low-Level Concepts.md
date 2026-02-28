@@ -1,4 +1,4 @@
-It's a fundemental of how a computer and system works and how software interacts with the hardware. 
+These conecpts are the fundementals of how a computer and system works and interacts with the each other. 
 
 ## 1. CPU Architecture and Execution :
 
