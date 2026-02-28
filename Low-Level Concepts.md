@@ -1,4 +1,4 @@
-These conecpts are the fundementals of how a computer and system works and interacts with the each other. 
+These concepts are the fundementals of how a computer and system works and interacts with the each other. 
 
 ## 1. CPU Architecture and Execution :
 
@@ -13,7 +13,7 @@ These conecpts are the fundementals of how a computer and system works and inter
 
 ## 2. Memory and Addressing : 
 
-- Memory Hieraarchy : Registers(fast) -> cache -> RAM -> Disk(slow)
+- Memory Hierarchy : Registers(fast) -> cache -> RAM -> Disk(slow)
 - Cache : fast memory inside the CPU that stores recently used data for quick access.
 - Virtual Memory : Its a technique that allows computer to use part of its storage as an extension of RAM.
 - Paging : Splits memory into Fixed blocks called pages for easy management.
