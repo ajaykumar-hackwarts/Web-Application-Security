@@ -12,7 +12,7 @@ These are a main protocol(set of rules) which is used for communication between 
 
 ## 2. SSL/TLS :
 
-SSL(secure socket layer) : When a browser request for a connection and CA(Certifacte Authority) to the server. The server provides it CA(which the domain name, exipre date etc.) aand browser checks it is valid and not and then if it correct and valid both agreed to use a secret key for encryption and now all data send from the server to the browser is encrypted hence no one can read it even if they inctercept that. This is how SSL works for security. 
+SSL(secure socket layer) : When a browser request for a connection and CA(Certifacte Authority) to the server. The server provides it CA(which the domain name, exipre date etc.) and browser checks it is valid and not and then if it correct and valid both agreed to use a secret key for encryption and now all data send from the server to the browser is encrypted hence no one can read it even if they inctercept that. This is how SSL works for security. 
 
 TLS(Transport Layer Security) : It is upgrade version of the SSL. It provide strong encryption and better handshake and integrity. 
 
